@@ -26,7 +26,6 @@ Este repositório contém uma série de atividades desenvolvidas durante os estu
 ## Tecnologias utilizadas
 
 - PHP
-- HTML
 - Conceitos de lógica e vetores (arrays)
 
 ## Como executar
